@@ -1,0 +1,32 @@
+@media(min-width: 1200px) and (max-width: 1600px){
+	.Header_part ul li {
+    padding: 0px 15px;
+}
+.box {
+    width: 95%;
+}
+.Header_part ul{
+	padding: 0px;
+}
+.VidBannr h2 {
+    font-size: 43px;
+}
+
+.Video_banner {
+    height: 550px;        
+}
+.VidBannr{
+	left: 6%;
+    padding: 3px 58px;
+}
+.SecondBx:after {
+    height: 450px;
+}
+.bannertxt {
+    transform: translateY(-48%);
+}
+.bacclr {
+    height: 390px;
+}
+
+}
