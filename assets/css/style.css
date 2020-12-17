@@ -15,15 +15,12 @@ a:hover{
 .Header_part ul li{
 	display: inline-block;
 	list-style: none;
-	border-right: 1px solid #0466b6;
-    padding: 0px 19px;
+    padding: 10px 19px;
 }
-.Header_part ul li:last-child{
-	border-right: 0px;
-}
+
 .Header_part ul{
 	margin-bottom: 0px;
-	margin-top: 55px;
+	margin-top: 50px;
 }
 .Header_part ul li a{
 	color: #0365b4;
@@ -305,12 +302,12 @@ top: -8px;
     background-color: #fff;
     width: 220px;
     border-radius: 0px 0px 20px 20px;
-    top: 40px;
+    top: 45px;
     left: 0%;
     height: 0;
     opacity: 0;
     z-index: -1;
-    transition: 0.5s ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 .SubMenu ul li{
 	border-right: 0px;
@@ -329,5 +326,8 @@ top: -8px;
 }
 .SubMenu ul li:last-child{
 	margin-bottom: 0px;
+}
+.pad18{
+  padding: 18px 0px;
 }
 

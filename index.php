@@ -30,7 +30,7 @@
 			<div class="col pad_0"><img src="assets/img/logo.webp" alt="logo"></div>
 				<div class="col pad_0">					
 					<ul>
-						<li><a href="">Home</a></li>
+						<li><a href="">Home</a></li>|
 						<li class="PosRel">
 							<a href="">Services</a>
 							<div class="SubMenu">
@@ -41,9 +41,9 @@
 									<li><a href="">Hospital Services</a></li>
 								</ul>
 							</div>
-						</li>
-						<li><a href="">Why CRH</a></li>
-						<li><a href="">Patient Visits</a></li>
+						</li>|
+						<li><a href="">Why CRH</a></li>|
+						<li><a href="">Patient Visits</a></li>|
 						<li><a href="">Patient Pre-registration</a></li>
 					</ul>
 				</div>
