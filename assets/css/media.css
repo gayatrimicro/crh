@@ -30,3 +30,37 @@
 }
 
 }
+
+@media(min-width: 320px) and (max-width: 767px){
+.img_docban {
+    width: 100%;
+}
+.Header_part {
+    display: none;
+}
+.VidBannr {
+    position: unset;
+    transform: unset;
+    width: 100%;
+    padding: 40px 20px;
+        background-color: #0467b5;
+}
+.SecondBx:after {
+    display: none;
+}
+.mart50 {
+    margin-top: 0px;
+}
+.Video_banner {
+    height: 100%;
+}
+.VidBannr h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.pad75 {
+    padding: 40px 0px;
+}
+
+
+}
